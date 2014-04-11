@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acapla.Utilities", "Acapla.Utilities\Acapla.Utilities.csproj", "{22BB2438-A2D1-429C-A35C-7E8F176DB076}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alpaca.Extensions", "Alpaca.Extensions\Alpaca.Extensions.csproj", "{2C2FDA8B-73ED-4E63-94F8-89FF7D03000C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22BB2438-A2D1-429C-A35C-7E8F176DB076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22BB2438-A2D1-429C-A35C-7E8F176DB076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22BB2438-A2D1-429C-A35C-7E8F176DB076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22BB2438-A2D1-429C-A35C-7E8F176DB076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C2FDA8B-73ED-4E63-94F8-89FF7D03000C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C2FDA8B-73ED-4E63-94F8-89FF7D03000C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C2FDA8B-73ED-4E63-94F8-89FF7D03000C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C2FDA8B-73ED-4E63-94F8-89FF7D03000C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
